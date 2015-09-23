@@ -1,0 +1,90 @@
+Ex. 1)
+Please enter a Post-Fix Expression:
+4572+-*
+The added value is: 9
+The subtracted value is: -4
+The multiplied value is: -16
+The added value is: 9
+The subtracted value is: -4
+The multiplied value is: -16
+The result is: -16
+Press any key to continue . . .
+
+
+Ex. 2)
+Please enter a Post-Fix Expression:
+34+2*7/
+The added value is: 7
+The multiplied value is: 14
+The divided value is: 2
+The added value is: 7
+The multiplied value is: 14
+The divided value is: 2
+The result is: 2
+Press any key to continue . . .
+
+
+Ex. 3)
+Please enter a Post-Fix Expression:
+57+62-*
+The added value is: 12
+The subtracted value is: 4
+The multiplied value is: 48
+The added value is: 12
+The subtracted value is: 4
+The multiplied value is: 48
+The result is: 48
+Press any key to continue . . .
+
+
+Ex. 4)
+Please enter a Post-Fix Expression:
+42351-+*+
+The subtracted value is: 4
+The added value is: 7
+The multiplied value is: 14
+The added value is: 18
+The subtracted value is: 4
+The added value is: 7
+The multiplied value is: 14
+The added value is: 18
+The result is: 18
+Press any key to continue . . .
+
+
+Ex. 5)
+Please enter a Post-Fix Expression:
+42+351-*+
+The added value is: 6
+The subtracted value is: 4
+The multiplied value is: 12
+The added value is: 18
+The added value is: 6
+The subtracted value is: 4
+The multiplied value is: 12
+The added value is: 18
+The result is: 18
+Press any key to continue . . .
+
+
+Ex. 6)
+Please enter a Post-Fix Expression:
+45*6+2*1-6/42+3**
+The multiplied value is: 20
+The added value is: 26
+The multiplied value is: 52
+The subtracted value is: 51
+The divided value is: 8.5
+The added value is: 6
+The multiplied value is: 18
+The multiplied value is: 153
+The multiplied value is: 20
+The added value is: 26
+The multiplied value is: 52
+The subtracted value is: 51
+The divided value is: 8.5
+The added value is: 6
+The multiplied value is: 18
+The multiplied value is: 153
+The result is: 153
+Press any key to continue . . .
